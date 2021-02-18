@@ -1,0 +1,7 @@
+Raquete esquerda: 
+	A -> Movimento para cima
+	Z -> Movimento para baixo
+
+Raquete direita:
+	Up -> Movimento para cima
+	Down -> Movimento para baixo
